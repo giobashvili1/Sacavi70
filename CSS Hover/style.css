@@ -1,0 +1,103 @@
+@font-face{
+    font-family: "fonti";
+    src: url(./fonts/Inter-Regular.ttf);
+}
+.box1{
+    width: 115px;
+height: 36px;
+flex-shrink: 0;
+border: none;
+border-radius: 10px;
+background: #FFD43A;
+margin-top: 10px;
+font-family: "fonti";
+color: #000;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.box1:hover{
+    border-radius: 10px;
+background: #8CFF98;
+}
+.box2{
+    width: 285px;
+height: 36px;
+border: none;
+flex-shrink: 0;
+border-radius: 10px;
+background: #000;
+margin-top: 10px;
+font-family: "fonti";
+color: #FFF;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.box2:hover{
+    border-radius: 10px;
+background: #D3D3D3;
+color: black;
+}
+.box3{
+    width: 336px;
+height: 36px;
+flex-shrink: 0;
+border: none;
+border-radius: 10px;
+background: #B43AFF;
+margin-top: 10px;
+font-family: "fonti";
+color: #FFF;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.box3:hover{
+    border-radius: 10px;
+background: #FF3AE0;
+}
+.box4{
+    width: 441px;
+height: 36px;
+flex-shrink: 0;
+border: none;
+border-radius: 10px;
+background: #E9E9E9;
+margin-top: 10px;
+font-family: "fonti";
+color: #000;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.box4:hover{
+    border-radius: 2px;
+background: #ABABAB;
+}
+.box5{
+    width: 559px;
+height: 36px;
+flex-shrink: 0;
+border: none;
+border-radius: 10px;
+background: #FFD43A;
+margin-top: 10px;
+font-family: "fonti";
+color: #000;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.box5:hover{
+    width: 588px;
+height: 58px;
+flex-shrink: 0;
+border-radius: 30px;
+background: #FFD43A;
+}
